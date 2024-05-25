@@ -37,7 +37,7 @@ I don't know if they are useful but hey, less packaging!
 - 27c6:530c
 - 27c6:5840
 
-### 0.0.6
+### 0.0.9
 
 - 27c6:550a
 
