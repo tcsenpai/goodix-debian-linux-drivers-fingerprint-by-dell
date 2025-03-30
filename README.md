@@ -6,6 +6,8 @@ Every intellectual property of the software is owned by the authors (Goodix most
 
 ## Compatibility
 
+**NOTE** Arch linux users may try https://aur.archlinux.org/packages/libfprint-2-tod1-goodix
+
 ### Tested
 
 This repository has been tested on Ubuntu 24.04 and 23.10.
